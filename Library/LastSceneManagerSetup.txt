@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/jogo.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Menu.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/About Us.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/gameover.unity
+  isLoaded: 0
+  isActive: 0
